@@ -1,0 +1,22 @@
+# Backend / Django
+Backend_project/venv/
+Backend_project/__pycache__/
+Backend_project/*.pyc
+Backend_project/db.sqlite3
+Backend_project/.env
+Backend_project/media/
+
+# Frontend / React
+Frontend_project/kfc-clone/node_modules/
+Frontend_project/kfc-clone/dist/
+Frontend_project/kfc-clone/.env
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
