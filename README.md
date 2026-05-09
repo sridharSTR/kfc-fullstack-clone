@@ -24,14 +24,6 @@ A **full‑stack, production‑grade** food‑ordering web application that mimi
 
 ---
 
-## 🌐 Live Demo
-| Platform | Link |
-|----------|------|
-| Frontend (Vercel) | https://kfc-clone-frontend.vercel.app |
-| Backend (Render) | https://kfc-clone-backend.onrender.com |
-
----
-
 ## ✨ Features
 - 🍗 **Restaurant‑style menu** with dynamic pricing
 - 🛒 **Cart & checkout** powered by Stripe (placeholder)
