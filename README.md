@@ -272,8 +272,8 @@ flowchart TB
     C --> D["Validate Stock & Price"]
     D --> E["Payment Mock"]
     E --> F["Order Status: Pending"]
-    F --> G['Admin updates to "Ready']
-    G --> H['User receives "Ready" notification']
+    F --> G["Admin updates to Ready"]
+    G --> H["User receives Ready notification"]
     H --> I["Delivery / Pickup"]
     I --> J["Order Status: Completed"]
 ```
