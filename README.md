@@ -19,15 +19,16 @@
 
 ---
 
-## 🎬 Demo Video
-
-[▶ Click here to watch demo video](https://1drv.ms/v/c/622f02d3ad5dda4f/IQCqL_HeK3BZTKpKR5F3bq9cAZo_YKwKx9EeAkSDlPkSgTg?e=xQQSnt)
- 
----
-
 ## 📚 Project Overview
 A **full‑stack, production‑grade** food‑ordering web application that mimics the experience of ordering from **KFC**.  It showcases a modern **React + Vite** frontend, a **Django + DRF** backend, **JWT** authentication, and CI/CD pipelines powered by **GitHub Actions**, deployed on **Vercel** (frontend) and **Render** (backend).
 
+---
+
+## 🎬 Demo Video
+
+[▶ Click here to watch demo video](https://1drv.ms/v/c/622f02d3ad5dda4f/IQCqL_HeK3BZTKpKR5F3bq9cAZo_YKwKx9EeAkSDlPkSgTg?e=xQQSnt)
+
+ 
 ---
 
 ## ✨ Features
