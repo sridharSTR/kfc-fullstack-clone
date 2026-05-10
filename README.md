@@ -21,8 +21,7 @@
 
 ## 🎬 Demo Video
 
-[![Watch Demo Video](https://1drv.ms/v/c/622f02d3ad5dda4f/IQCqL_HeK3BZTKpKR5F3bq9cAZo_YKwKx9EeAkSDlPkSgTg?e=xQQSnt)
-
+[▶ Click here to watch demo video](https://1drv.ms/v/c/622f02d3ad5dda4f/IQCqL_HeK3BZTKpKR5F3bq9cAZo_YKwKx9EeAkSDlPkSgTg?e=xQQSnt)
  
 ---
 
