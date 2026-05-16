@@ -124,7 +124,7 @@ kfc-clone/
 ## ⚙️ Installation Guide
 ```bash
 # Clone the repo
-git clone https://github.com/sridharSTR/kfc-clone.git
+git clone https://github.com/your_name/kfc-clone.git
 cd kfc-clone
 ```
 
