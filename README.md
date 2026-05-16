@@ -26,7 +26,7 @@ A **full‑stack, production‑grade** food‑ordering web application that mimi
 
 ## 🎬 Demo Video
 
-[▶ Click here to watch demo video](https://drive.google.com/file/d/1xy-xsg267P4mwAhrAjT_JoMs23ScvCIi/view?usp=drivesdk)
+[▶ Click here to watch demo video](https://drive.google.com/file/d/1xy-xsg267P4mwAhrAjT_JoMs23ScvCIi/view?usp=sharing)
 
  
 ---
